@@ -1,6 +1,13 @@
 body {
-    background-color: rgb(250, 250, 250); /* Muda a cor de fundo */
+    background-color: rgb(70, 64, 64); /* Muda a cor de fundo */
     display: flex;
     align-items: center;
+    justify-content: center;
+    flex-direction: column;
     
+}
+.card{
+    width: 400px;
+    padding: 10px;
+    box-shadow: 5px 5px rgb(145, 72, 72);
 }
